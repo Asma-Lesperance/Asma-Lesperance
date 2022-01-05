@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asma-Lesperance
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning Python and Java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python.
+- 💞️  I’m looking to collaborate on ...
 - 📫 How to reach me IG:6onga
 
 <!---
